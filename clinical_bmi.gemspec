@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Calculate your BMI }
   spec.description   = %q{gem to calculate BMI}
-  spec.homepage      = "clinical_bmi"
+  spec.homepage      = "https://github.com/dprabu17/clinical_bmi"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
